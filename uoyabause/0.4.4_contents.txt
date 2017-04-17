@@ -1,0 +1,39 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-05-11 23:37:08 ....A           62        28147  readme.txt
+2016-05-11 23:02:48 ....A        11168               trans\yabause_ar.yts
+2016-05-11 23:02:49 ....A        11931               trans\yabause_de.yts
+2016-05-11 23:02:49 ....A        12747               trans\yabause_es.yts
+2016-05-11 23:02:49 ....A        12913               trans\yabause_fr.yts
+2016-05-11 23:02:49 ....A        11474               trans\yabause_it.yts
+2016-05-11 23:02:49 ....A        12253               trans\yabause_ja.yts
+2016-05-11 23:02:49 ....A        11382               trans\yabause_lt.yts
+2016-05-11 23:02:49 ....A        11281               trans\yabause_nl.yts
+2016-05-11 23:02:49 ....A        12204               trans\yabause_pt.yts
+2016-05-11 23:02:49 ....A        12673               trans\yabause_pt_BR.yts
+2016-05-11 23:02:49 ....A        16588               trans\yabause_ru.yts
+2016-05-11 23:02:49 ....A        11044               trans\yabause_sv.yts
+2016-05-11 23:02:49 ....A        11128               trans\yabause_zh_CN.yts
+2016-05-11 23:02:49 ....A        11175               trans\yabause_zh_TW.yts
+2017-03-18 06:11:02 ....A      3164672     12740755  yabause.exe
+2014-09-03 10:16:21 ....A     21529088               icudt53.dll
+2014-09-03 10:16:18 ....A      1982976               icuin53.dll
+2014-09-03 10:16:17 ....A      1355264               icuuc53.dll
+2016-12-03 22:01:16 ....A        10752               mini18n.dll
+2014-12-05 19:41:46 ....A        28160               platforms\qminimal.dll
+2014-12-05 19:41:51 ....A        75264               platforms\qminimald.dll
+2014-12-05 19:41:57 ....A       442368               platforms\qoffscreen.dll
+2014-12-05 19:42:02 ....A       848384               platforms\qoffscreend.dll
+2014-12-26 04:55:57 ....A      4051456               Qt5Core.dll
+2014-12-05 19:38:37 ....A      4535296               Qt5Gui.dll
+2014-12-05 19:51:29 ....A       537088               Qt5Multimedia.dll
+2014-12-05 19:37:31 ....A       818688               Qt5Network.dll
+2014-12-05 19:41:12 ....A       272384               Qt5OpenGL.dll
+2014-12-05 19:40:14 ....A      4397056               Qt5Widgets.dll
+2014-12-05 19:42:15 ....A       889856               platforms\qwindows.dll
+2014-12-05 19:42:31 ....A      1845248               platforms\qwindowsd.dll
+2016-01-02 04:58:20 ....A      1047552               SDL2.dll
+2017-04-07 10:00:40 D....            0            0  trans
+2017-04-07 10:00:39 D....            0            0  platforms
+------------------- ----- ------------ ------------  ------------------------
+2017-04-07 10:00:40           48001575     12768902  33 files, 2 folders

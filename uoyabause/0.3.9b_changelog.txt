@@ -1,0 +1,6 @@
+Other improvements are described below.
+
+Faster rotate screen generation
+Implement vertical cell scroll
+Fix bug: Transparent polygons are not drawn on GPU tessellation mode.
+Improve VDP1 transparent for OpenGL ES 3.1 devices
