@@ -1,0 +1,66 @@
+v3.9.1 Features
+_________________
+
+- Save PNG or JPG screenshots without FreeImage.dll (D3D).
+
+- Fullscreen: new option to use the desktop refresh rate (D3D).
+
+
+v3.9.1 Emulation improvements
+_______________________________
+
+- Delay before bus error triggers.
+
+- Blitter:
+  In blit mode, the blitter can interrupt an operation between read and write.
+  The CPU can surrender bus control during an instruction.
+  Steem emulates this, but it's not 100% accurate.
+
+
+v3.9.1 Bugfixes
+_________________
+
+- Option 'Fullscreen/Triple buffering' not updated.
+
+- Microwire volume effect on PSG sound (Antiques).
+To allow volume effects while avoiding clicks, Steem will adapt the
+volume only progressively, this is not correct emulation, it's a compromise.
+
+- CPU exception stack frame for  MOVE <ea>,(xxx).L.
+
+- TRACE.txt appearing in local directory when Steem launched by association.
+
+- NVDI 5 failing to boot.
+
+- BMP screenshot having wrong size with borders off (D3D).
+
+- Screenshot having bad proportion with option 'Interpolated Scanlines' (D3D).
+
+- Option 'Minimum Size Screenshots' not operating (D3D).
+
+- Save screenshot to clipboard not operating (D3D).
+
+- JPG quality option not operating (DD).
+
+- 'Ports' options messed up.
+
+- Crash on deassociating Steem.
+
+- On Screen Display centring in fullscreen mode, medium resolution, scanlines
+ (D3D).
+
+- Strange triangle in crisp fullscreen mode with scanlines (D3D).
+
+- Crisp fullscreen rendering in medium resolution (D3D).
+
+- Fetching from wrong address in IO zone (White Spirit).
+
+- Steem thinking you're using the mouse when pressing joystick 0 fire (TNT).
+
+- Some potential CPU timing errors.
+
+- Sound recording totally broken.
+
+- Monochrome extended monitor.
+
+- Steem's Pasti options messed up at start-up.

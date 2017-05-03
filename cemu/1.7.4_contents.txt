@@ -1,0 +1,81 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-04-09 06:12:34 ....A         3192         5351  graphicPacks\example_pack.zip
+2017-04-09 06:12:34 ....A         1576               graphicPacks\TheWindWaker_reducedBloom\97777067ee7386cf_0000000000000079_ps_source.txt
+2017-04-09 06:12:34 ....A          131               shaderCache\info.txt
+2017-04-09 06:12:34 ....A           85               graphicPacks\TheWindWaker_reducedBloom\rules.txt
+2017-04-09 06:12:34 ....A          181               graphicPacks\Splatoon_1080p\rules.txt
+2017-04-09 06:12:34 ....A          186               graphicPacks\Splatoon_2160p\rules.txt
+2017-04-09 06:12:34 ....A          198               graphicPacks\Pikmin3_1080p\rules.txt
+2017-04-09 06:12:34 ....A          198               graphicPacks\XCX_2160p\rules.txt
+2017-04-09 06:12:34 ....A          201               graphicPacks\Bayonetta2_1080p\rules.txt
+2017-04-09 06:12:34 ....A          203               graphicPacks\Pikmin3_2160p\rules.txt
+2017-04-09 06:12:34 ....A          206               graphicPacks\Bayonetta2_2160p\rules.txt
+2017-04-09 06:12:34 ....A          206               graphicPacks\XCX_1080p\rules.txt
+2017-04-09 06:12:34 ....A          253               graphicPacks\SuperMario3DWorld_1080p\rules.txt
+2017-04-09 06:12:34 ....A          258               graphicPacks\SuperMario3DWorld_2160p\rules.txt
+2017-04-09 06:12:34 ....A          266               graphicPacks\MK8_1080p\rules.txt
+2017-04-09 06:12:34 ....A          271               graphicPacks\MK8_2160p\rules.txt
+2017-04-09 06:12:34 ....A          437               graphicPacks\Smash4_snormNvidiaFix\rules.txt
+2017-04-09 06:12:34 ....A          109               gameProfiles\0005000010106100.ini
+2017-04-09 06:12:34 ....A           91               gameProfiles\000500001010ec00.ini
+2017-04-09 06:12:34 ....A           91               gameProfiles\000500001010ed00.ini
+2017-04-09 06:12:34 ....A          111               gameProfiles\0005000010116100.ini
+2017-04-09 06:12:34 ....A          106               gameProfiles\0005000010144f00.ini
+2017-04-09 06:12:34 ....A          106               gameProfiles\0005000010145000.ini
+2017-04-09 06:12:34 ....A          109               gameProfiles\0005000010145c00.ini
+2017-04-09 06:12:34 ....A          109               gameProfiles\0005000010145d00.ini
+2017-04-09 06:12:34 ....A          119               gameProfiles\0005000010180500.ini
+2017-04-09 06:12:34 ....A          119               gameProfiles\0005000010180600.ini
+2017-04-09 06:12:34 ....A          119               gameProfiles\0005000010180700.ini
+2017-04-09 06:12:34 ....A          170               gameProfiles\000500001019e600.ini
+2017-04-09 06:12:34 ....A          111               gameProfiles\00050000101c4c00.ini
+2017-04-09 06:12:34 ....A          110               gameProfiles\00050000101c4d00.ini
+2017-04-09 06:12:34 ....A           88               gameProfiles\00050000101C9300.ini
+2017-04-09 06:12:34 ....A           88               gameProfiles\00050000101c9400.ini
+2017-04-09 06:12:34 ....A           88               gameProfiles\00050000101c9500.ini
+2017-04-09 06:12:34 ....A          165               gameProfiles\0005000e1019c800.ini
+2017-04-09 08:13:47 ....A         1842               gameProfiles\example.ini
+2017-04-09 07:59:48 ....A      6298112      1578860  Cemu.exe
+2017-05-02 20:22:09 D....            0            0  shaderCache\transferable
+2017-05-02 20:22:09 D....            0            0  shaderCache\precompiled
+2017-05-02 20:22:09 D....            0            0  shaderCache
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\title
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\save\00050010\10047100\user\common\db
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\save\00050010\10047100\user\common
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\save\00050010\10047100\user
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\save\00050010\10047100
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\save\00050010
+2017-05-02 20:22:09 D....            0            0  mlc01\usr\save
+2017-05-02 20:22:09 D....            0            0  mlc01\usr
+2017-05-02 20:22:09 D....            0            0  mlc01\sys\title\0005001b\10056000\content
+2017-05-02 20:22:09 D....            0            0  mlc01\sys\title\0005001b\10056000
+2017-05-02 20:22:09 D....            0            0  mlc01\sys\title\0005001b
+2017-05-02 20:22:09 D....            0            0  mlc01\sys\title
+2017-05-02 20:22:09 D....            0            0  mlc01\sys
+2017-05-02 20:22:09 D....            0            0  mlc01\emulatorSave
+2017-05-02 20:22:09 D....            0            0  mlc01
+2017-05-02 20:22:09 D....            0            0  hfiomlc01\sys\title\0005001b\10052000\content
+2017-05-02 20:22:09 D....            0            0  hfiomlc01\sys\title\0005001b\10052000
+2017-05-02 20:22:09 D....            0            0  hfiomlc01\sys\title\0005001b
+2017-05-02 20:22:09 D....            0            0  hfiomlc01\sys\title
+2017-05-02 20:22:09 D....            0            0  hfiomlc01\sys
+2017-05-02 20:22:09 D....            0            0  hfiomlc01
+2017-05-02 20:22:09 D....            0            0  graphicPacks\XCX_2160p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\XCX_1080p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\TheWindWaker_reducedBloom
+2017-05-02 20:22:09 D....            0            0  graphicPacks\SuperMario3DWorld_2160p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\SuperMario3DWorld_1080p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Splatoon_2160p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Splatoon_1080p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Smash4_snormNvidiaFix
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Pikmin3_2160p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Pikmin3_1080p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\MK8_2160p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\MK8_1080p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Bayonetta2_2160p
+2017-05-02 20:22:09 D....            0            0  graphicPacks\Bayonetta2_1080p
+2017-05-02 20:22:09 D....            0            0  graphicPacks
+2017-05-02 20:22:09 D....            0            0  gameProfiles
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 20:22:09            6310011      1584211  37 files, 40 folders

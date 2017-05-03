@@ -1,0 +1,61 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-01-05 16:54:56 ....A         3304       273384  DriveSound\drive_click_Epson.wav
+2014-01-05 16:52:22 ....A       111224               DriveSound\drive_seek_Epson.wav
+2014-01-05 17:01:00 ....A       166196               DriveSound\drive_spin_Epson.wav
+2014-01-05 16:52:30 ....A        12052               DriveSound\drive_startup_Epson.wav
+2015-05-11 08:21:54 ....A         1024               HFE_boot.bin
+2014-10-29 22:33:40 ....A         8192               ym2149_fixed_vol.bin
+2012-07-15 09:35:42 ....A         4096               HD6301V1ST.img
+2016-12-02 20:12:28 ....A         4426               Bugs.txt
+2016-12-22 12:54:24 ....A         7239               Hints.txt
+2016-10-08 09:54:28 ....A         5055               Hit List.txt
+2014-09-28 10:00:24 ....A          494               PRG\note.txt
+2016-12-20 12:04:52 ....A        10759               Steem SSE 3.9.0.txt
+2016-12-17 12:35:50 ....A        13522               Steem SSE FAQ.txt
+2016-12-22 13:04:22 ....A        74301               Steem SSE Manual.txt
+2016-09-11 09:09:24 ....A       131072               MV16_SSE.stc
+2016-09-27 22:56:17 ....A       131072               Replay16_SSE.stc
+2014-08-04 09:02:42 ....A          480               PRG\DESKTOP.INF
+2016-11-23 12:07:50 ....A         8312               steem.new
+2015-09-29 13:39:48 ....A          160               patches\3615 HMD DIST.stp
+2016-12-02 20:13:58 ....A          157               patches\Alcatraz.stp
+2016-12-08 11:34:39 ....A          170               patches\Archipelagos STF.stp
+2014-02-07 20:14:58 ....A          250               patches\BIG Demo.stp
+2015-02-21 14:32:52 ....A          138               patches\Carrier Command STX.stp
+2012-08-17 21:26:22 ....A          594               patches\Cool STE.stp
+2015-01-11 21:02:20 ....A          167               patches\Cuddly Demo STE.stp
+2014-02-25 12:51:46 ....A          202               patches\Dynabusters+.stp
+2015-02-08 22:47:48 ....A          144               patches\Elite STX.stp
+2016-12-08 14:06:44 ....A          139               patches\Fish STF.stp
+2016-11-27 13:54:46 ....A          140               patches\Flood STF.stp
+2016-11-26 23:58:28 ....A          144               patches\Gauntlet III STE.stp
+2016-11-27 00:05:05 ....A          144               patches\Gauntlet III STF.stp
+2014-04-19 22:39:56 ....A          255               patches\Great Courts STX.stp
+2016-12-05 16:24:22 ....A          139               patches\Guild of Thieves STF.stp
+2016-11-28 16:06:10 ....A          160               patches\Gunship STE.stp
+2016-11-28 15:54:06 ....A          160               patches\Gunship STF.stp
+2016-12-05 16:53:38 ....A          135               patches\Jinxter STF.stp
+2016-12-06 12:37:46 ....A          169               patches\Jupiter's Masterdrive STX.stp
+2016-12-06 12:32:26 ....A          174               patches\Leviathan STX.stp
+2012-03-22 20:45:42 ....A          259               patches\MP_GolfDepr.stp
+2016-02-12 22:32:18 ....A          216               patches\Populous II-TRSI intro.stp
+2014-10-27 18:26:08 ....A          183               patches\Prohibition STX 1.stp
+2014-10-27 18:26:08 ....A          182               patches\Prohibition STX 2.stp
+2014-10-27 18:26:10 ....A          406               patches\Prohibition STX 3.stp
+2016-12-02 12:23:25 ....A          138               patches\Rainbow Warrior.stp
+2015-02-21 12:29:12 ....A          138               patches\RVF Honda STX.stp
+2015-02-21 14:19:58 ....A          138               patches\Starglider 2 STX.stp
+2016-07-29 20:24:06 ....A          143               patches\Substation.stp
+2016-07-29 18:33:30 ....A          365               patches\TeenageMutantHeroTurtles.stp
+2016-12-02 19:38:39 ....A          219               patches\Trauma.stp
+2014-03-09 09:59:18 ....A          165               patches\Yogi's Great Escape.stp
+2016-12-24 14:59:22 ....A      1376256       659688  Steem SSE 3.9.0.exe
+2015-05-09 10:36:32 ....A       587264               ArchiveAccess.dll
+2017-05-02 21:43:22 D....            0            0  PRG\AUTO
+2017-05-02 21:43:22 D....            0            0  PRG
+2017-05-02 21:43:22 D....            0            0  patches
+2017-05-02 21:43:22 D....            0            0  DriveSound
+2017-05-02 21:43:22 D....            0            0  config
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 21:43:22            2662633       933072  52 files, 5 folders

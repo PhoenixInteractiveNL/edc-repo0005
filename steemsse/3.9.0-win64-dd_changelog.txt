@@ -1,0 +1,60 @@
+v3.9.0 Internal
+_________________
+
+- Cycle precision system ("events") for all ACIA I/O (6301, MIDI) when
+option C1 is checked (it doesn't mean the emulation is 100% accurate).
+
+- Some refactoring and source code simplification.
+
+
+v3.9.0 Bugfixes
+_________________
+
+- Remove HD/TOS warning (a 'bad idea' fix).
+
+- No warning for STF/T206, they're compatible.
+
+- Reorganisation of option names in steem.ini (example, there were "Options"
+and "Option" sections).
+Because of that, first startup may be confusing, but it had to be done 
+one day.
+
+- If, unlikely as it is, Steem crashes, it will report the exception number 
+and position in a message box, and then close cleanly if possible.
+
+- Auto select TOS on load snapshot: try to match country.
+
+- Clicks on some DMA sounds (Talk Talk 2).
+
+- Reading Joypads when the program doesn't respect conventions (Substation).
+
+- WD1772: delay on SEEK when DR=TR (Suretrip II STW).
+
+- ACIA transmission on accelerated ST (option C1 for 6301 and MIDI).
+
+- MC68000: some timing corrections (using Yacht table).
+
+- Drive speed in "accurate" mode (Necrosys, Oh No More Froggies).
+
+- Joystick port 0 with option C1 (TNT).
+
+- Screenshot with normal (small) size (D3D build).
+
+- Win64 build: fix some GUI crashes.
+
+- File handle leak when using ArchiveAccess.dll.
+
+- CAPS some drive sounds missing.
+
+- Some crashes on load snapshot (option C2).
+
+- Crash on change R/W when STW/HFE disk inserted.
+
+- Save as Neo: save correct resolution.
+
+- Resetting in medium resolution could cause shifted planes, low resolution
+display.
+
+- Fullscreen crisp rendering: trash when switching resolutions
+
+- DefaultSnapshot in ini file interfering with dropping disk image file on Steem
